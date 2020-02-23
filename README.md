@@ -1,5 +1,5 @@
 # 可愛いしんちゃん
-![](./logo.jpg)
+![](src/img/-2.png)
 
 ## Install Dependency 
 Install pyqt5 using anaconda or pip
