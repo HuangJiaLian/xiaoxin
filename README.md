@@ -1,5 +1,17 @@
 # 可愛いしんちゃん
 ![](./logo.jpg)
 
-小新，快过来！
+## Install Dependency 
+Install pyqt5 using anaconda or pip
+```bash
+conda install -c anaconda pyqt
+```
+or 
+```bash
+pip install PyQt5
+```
 
+## Run
+```bash
+python main.py
+```
